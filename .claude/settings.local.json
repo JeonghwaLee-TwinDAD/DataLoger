@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(conda env list)",
+      "PowerShell(& \"C:\\\\Users\\\\skkjh\\\\anaconda3\\\\Scripts\\\\conda.exe\" env list)",
+      "PowerShell(& \"C:\\\\Users\\\\skkjh\\\\anaconda3\\\\Scripts\\\\conda.exe\" env export -n xy-plotter)",
+      "PowerShell(& \"C:\\\\Users\\\\skkjh\\\\anaconda3\\\\Scripts\\\\conda.exe\" env create -f \"C:\\\\Working copy\\\\DataLogger\\\\environment.yml\")",
+      "PowerShell(& \"C:\\\\Users\\\\skkjh\\\\anaconda3\\\\envs\\\\logger\\\\python.exe\" --version)"
+    ]
+  }
+}
