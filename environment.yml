@@ -6,6 +6,8 @@ dependencies:
   - pip
   - pip:
       - matplotlib==3.10.9
+      - mcp
       - nidaqmx==1.5.0
       - numpy==2.4.5
       - pandas==3.0.3
+      - pyinstaller

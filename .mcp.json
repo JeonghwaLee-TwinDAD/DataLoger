@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "datalogger": {
+      "command": "C:\\Users\\skkjh\\AppData\\Local\\Python\\bin\\python.exe",
+      "args": [
+        "c:\\Working copy\\DataLogger\\mcp_datalogger_server.py"
+      ]
+    }
+  }
+}
